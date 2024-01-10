@@ -2,7 +2,7 @@
 
 Hey all welcome to this practice takehome challenge
 
-To get started with this challenge, you should fork this repository.
+**To get started with this challenge, you need to fork this repository.**
 
 In the `streamingData` folder, you will find 9 JSON files. These files contain a year's worth of streaming history from Spotify, with roughly 80,000 song entries.
 
